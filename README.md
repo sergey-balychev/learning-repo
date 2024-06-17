@@ -1,4 +1,5 @@
 # learning-repo
-for learning on the courses at Skillbox
-by 007 
-commit by PyCharm =)
+
+### This bot is currently under development.
+
+#### At the moment, it only issues a welcome message by pressing the **/start** button, as well as this bot recognizes voice messages.
