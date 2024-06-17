@@ -1,4 +1,4 @@
 # learning-repo
-for learning on the courses at Skillbox
-by 007 
-commit by PyCharm =)
+<h1>for learning on the courses at Skillbox</h1>
+<br>by 007 
+<br>commit by PyCharm =)
