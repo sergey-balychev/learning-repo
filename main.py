@@ -1,12 +1,13 @@
 import os
 import telebot
+import pydub
 import speech_recognition
 from pydub import AudioSegment
 
 
 # Ниже нужно вставить токен, который дал BotFather при регистрации
 # Пример: token = '2007628239:AAEF4ZVqLiRKG7j49EC4vaRwXjJ6DN6xng8'
-token = '<...>'  # <<< Ваш токен
+token = '7289860039:AAEXNl48PihpgrJFfW1KKPxP11sHOeKOZCk'  # <<< Ваш токен
 
 bot = telebot.TeleBot(token)
 
